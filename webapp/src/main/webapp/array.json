@@ -1,0 +1,14 @@
+{
+	"title": "Use HTML Div to add border only on top and bottom?",
+	"question": "I use HTML DIV tag to format my header with border like this:This is a header.However, I would like to have the border appears only on top and bottom, but not on left and right. I would like border in the same way as padding for top left bottom and right, but border does not have this feature(or I don't know?). Is there any way in CSS style to do that?",
+	"answersarray": [{
+		"answer": "For future reference, the following is a an alternative method that avoids having to define border properties (colour, width) more than once and allows declarations similar to those used for margin and padding (as requested)."
+	}, {
+		"answer": "For future reference, the following is a an alternative method that avoids having to define border properties (colour, width) more than once and allows declarations similar to those used for margin and padding (as requested)."
+	}, {
+"answer": "For future reference, the following is a an alternative method that avoids having to define border properties (colour, width) more than once and allows declarations similar to those used for margin and padding (as requested)."
+	}, {
+		"answer": "For future reference, the following is a an alternative method that avoids having to define border properties (colour, width) more than once and allows declarations similar to those used for margin and padding (as requested)."
+	}]
+
+}

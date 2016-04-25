@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/iask.iml" filepath="$PROJECT_DIR$/.idea/modules/iask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/iask_main.iml" filepath="$PROJECT_DIR$/.idea/modules/iask_main.iml" group="iask" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/iask_test.iml" filepath="$PROJECT_DIR$/.idea/modules/iask_test.iml" group="iask" />
+    </modules>
+  </component>
+</project>
